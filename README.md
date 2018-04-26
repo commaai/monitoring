@@ -35,7 +35,7 @@ We are hiring a full time "Driving Monitoring Engineer" to come join us in our l
 Other Challenge
 -----
 
-If you are looking for a harder less subjective challenge, try the <a href="https://twitter.com/comma_ai/status/854488327797448704">speed prediction challenge</a>
+If you are looking for a harder non-subjective challenge, try the <a href="https://twitter.com/comma_ai/status/854488327797448704">speed prediction challenge</a>
 
 You are given a video with matching speed data and a video without. Goal is to predict the speed of the car from video.
 
