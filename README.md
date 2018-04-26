@@ -5,7 +5,7 @@ We have released 4 one minute long videos of people driving cars.
 
 <img src="https://github.com/commaai/monitoring/blob/master/ss.png">
 
-They were recording with a <a href="https://shop.comma.ai/products/eon-dashcam-devkit">EON Dashcan DevKit</a>
+They were recorded with an <a href="https://shop.comma.ai/products/eon-dashcam-devkit">EON Dashcan DevKit</a>
 
 Background
 -----
