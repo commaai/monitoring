@@ -32,6 +32,13 @@ Feel free to fork this and just show off your solution on your GitHub. Or, when 
 
 We are hiring a full time "Driving Monitoring Engineer" to come join us in our lovely SF office, and when you apply, we'll ask that you complete this challenge.
 
+Other Challenge
+-----
+
+If you are looking for a harder less subjective challenge, try the <a href="https://t.co/rUsZvwyntj">speed prediction challenge</a>
+
+You are given a video with matching speed data and a video without. Goal is to predict the speed of the car from video.
+
 Twitter
 ------
 
