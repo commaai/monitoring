@@ -1,7 +1,7 @@
 The comma.ai Driver Monitoring Challenge!
 ======
 
-We have released 4 one minute long videos of people driving cars.
+We have released 4 one minute long videos of people driving cars in the videos/ folder.
 
 <img src="https://github.com/commaai/monitoring/blob/master/ss.png">
 
