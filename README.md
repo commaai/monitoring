@@ -37,7 +37,7 @@ Other Challenge
 
 If you are looking for a harder non-subjective challenge, try the <a href="https://twitter.com/comma_ai/status/854488327797448704">speed prediction challenge</a>
 
-You are given a video with matching speed data and a video without. Goal is to predict the speed of the car from video.
+Goal is to predict the speed of the car from video. Train and test set included.
 
 Twitter
 ------
