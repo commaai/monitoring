@@ -25,9 +25,12 @@ Your goal:
 
 Annotate your tracking nicely on the video and do a writeup with pictures.
 
-We are hiring a full time "Driving Monitoring Engineer", and when you apply, we'll ask you complete this challenge.
+Hiring
+-----
 
-Feel free to fork this and show off your solution on your GitHub. Or, when done, apply for a job here at givemeajob@comma.ai
+Feel free to fork this and just show off your solution on your GitHub. Or, when done, apply for a job here at givemeajob@comma.ai
+
+We are hiring a full time "Driving Monitoring Engineer", and when you apply, we'll ask you complete this challenge.
 
 Twitter
 ------
