@@ -10,7 +10,7 @@ They were recorded with an <a href="https://shop.comma.ai/products/eon-dashcam-d
 Background
 -----
 
-We believe driver monitoring is one of the keys safely ramping up to full self driving cars.
+We believe driver monitoring is one of the keys to safely ramping up to full self driving cars.
 
 We wrote <a href="https://medium.com/@comma_ai/safety-and-driver-attention-2a33d3d23109">a lot more on our medium</a>
 
