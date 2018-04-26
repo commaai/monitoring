@@ -30,7 +30,7 @@ Hiring
 
 Feel free to fork this and just show off your solution on your GitHub. Or, when done, apply for a job here at givemeajob@comma.ai
 
-We are hiring a full time "Driving Monitoring Engineer", and when you apply, we'll ask that you complete this challenge.
+We are hiring a full time "Driving Monitoring Engineer" to come join us in our lovely SF office, and when you apply, we'll ask that you complete this challenge.
 
 Twitter
 ------
